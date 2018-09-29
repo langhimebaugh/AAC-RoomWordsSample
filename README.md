@@ -49,6 +49,15 @@ if you don't already have it.
 2. Import the sample into Android Studio.
 3. Build and run the sample.
 
+See
+---------------
+
+* https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-6-working-with-architecture-components/lesson-14-room,-livedata,-viewmodel/14-1-a-room-livedata-viewmodel/14-1-a-room-livedata-viewmodel.html 
+* https://google-developer-training.github.io/android-developer-advanced-course-concepts/unit-6-working-with-architecture-components/lesson-14-architecture-components/14-1-c-architecture-components/14-1-c-architecture-components.html
+* https://github.com/google-developer-training/android-advanced/tree/master/RoomWordsSample
+* https://github.com/google-developer-training/android-advanced/tree/master/RoomWordsWithDelete
+* https://github.com/google-developer-training/android-advanced/tree/master/RoomWordsWithUpdate
+
 License
 -------
 

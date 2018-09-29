@@ -58,6 +58,10 @@ See
 * https://github.com/google-developer-training/android-advanced/tree/master/RoomWordsWithDelete
 * https://github.com/google-developer-training/android-advanced/tree/master/RoomWordsWithUpdate
 
+* https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0
+* https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel/#0
+* https://codelabs.developers.google.com/codelabs/android-training-room-delete-data/#0
+
 License
 -------
 
